@@ -1,0 +1,26 @@
+D:\Projects\merchant-web-portal-api\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+D:\Projects\merchant-web-portal-api\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\Projects\merchant-web-portal-api\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\Projects\merchant-web-portal-api\src\ApplicationCore\bin\Debug\netcoreapp3.1\GHL.Lumpia.dll
+D:\Projects\merchant-web-portal-api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+D:\Projects\merchant-web-portal-api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+D:\Projects\merchant-web-portal-api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+D:\Projects\merchant-web-portal-api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csproj.CopyComplete
+D:\Projects\merchant-web-portal-api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\Projects\merchant-web-portal-api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.deps.json
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\ApplicationCore\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.AssemblyInfo.cs
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\ApplicationCore\obj\Debug\netcoreapp3.1\ApplicationCore.pdb

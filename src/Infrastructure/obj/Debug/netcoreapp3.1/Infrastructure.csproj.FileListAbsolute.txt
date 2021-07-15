@@ -1,0 +1,34 @@
+D:\Projects\merchant-web-portal-api\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\Projects\merchant-web-portal-api\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\Projects\merchant-web-portal-api\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\Projects\merchant-web-portal-api\src\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+D:\Projects\merchant-web-portal-api\src\Infrastructure\bin\Debug\netcoreapp3.1\GHL.Lumpia.dll
+D:\Projects\merchant-web-portal-api\src\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+D:\Projects\merchant-web-portal-api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+D:\Projects\merchant-web-portal-api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\merchant-web-portal-api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\Projects\merchant-web-portal-api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+D:\Projects\merchant-web-portal-api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\Projects\merchant-web-portal-api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Vernie Namca\Desktop\RetailScore\.NET Exam\BankTransaction\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.dll
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\Infrastructure\bin\Debug\netcoreapp3.1\ApplicationCore.pdb
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\Vernie Namca\Desktop\TheRetailScore\.NET Exam\Application\bank-transaction-api\src\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb

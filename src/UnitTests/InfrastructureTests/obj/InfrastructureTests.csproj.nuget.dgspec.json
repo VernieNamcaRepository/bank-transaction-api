@@ -1,0 +1,253 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\UnitTests\\InfrastructureTests\\InfrastructureTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\ApplicationCore\\ApplicationCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\ApplicationCore\\ApplicationCore.csproj",
+        "projectName": "ApplicationCore",
+        "projectPath": "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\ApplicationCore\\ApplicationCore.csproj",
+        "packagesPath": "C:\\Users\\Vernie Namca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\ApplicationCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vernie Namca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.10.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Vernie Namca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vernie Namca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\ApplicationCore\\ApplicationCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\UnitTests\\InfrastructureTests\\InfrastructureTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\UnitTests\\InfrastructureTests\\InfrastructureTests.csproj",
+        "projectName": "InfrastructureTests",
+        "projectPath": "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\UnitTests\\InfrastructureTests\\InfrastructureTests.csproj",
+        "packagesPath": "C:\\Users\\Vernie Namca\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\UnitTests\\InfrastructureTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Vernie Namca\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\ApplicationCore\\ApplicationCore.csproj"
+              },
+              "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Vernie Namca\\Desktop\\RetailScore\\.NET Exam\\BankTransaction\\src\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
